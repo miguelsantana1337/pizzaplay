@@ -1,6 +1,6 @@
 # Pizza Play — Árvore de links
 
-Página estática e responsiva com os principais canais da Pizza Play, em Santana do Paraíso/MG.
+Página estática e responsiva com os principais canais da Pizza Play, em Ipatinga/MG.
 
 ## Executar localmente
 
